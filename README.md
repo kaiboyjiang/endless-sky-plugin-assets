@@ -1,4 +1,7 @@
 # Kai's Endless Sky Plugin Assets
+
+![Repository size](https://img.shields.io/github/repo-size/kaiboyjiang/endless-sky-plugin-assets?style=for-the-badge&color=rgb(27,121,66))
+
 Assets for my Endless Sky plugins, mostly from KGS.
 
 All discussion should go in the [main repo](https://github.com/kaiboyjiang/endless-sky-plugins/discussions).
