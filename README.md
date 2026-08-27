@@ -1,6 +1,6 @@
 # Kai's Endless Sky Plugin Assets
 
-![Repository size](https://img.shields.io/github/repo-size/kaiboyjiang/endless-sky-plugin-assets?style=for-the-badge&color=rgb(27,121,66))
+![Repository size](https://img.shields.io/github/repo-size/kaiboyjiang/endless-sky-plugin-assets?style=for-the-badge&color=a2a2a2)
 
 Assets for my Endless Sky plugins, mostly from KGS.
 
