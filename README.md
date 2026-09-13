@@ -1,6 +1,7 @@
 # Kai's Endless Sky Plugin Assets
 
 ![Repository size](https://img.shields.io/github/repo-size/kaiboyjiang/endless-sky-plugin-assets?style=for-the-badge&color=a2a2a2)
+![Supercarrier](https://github.com/kaiboyjiang/endless-sky-plugin-assets/blob/main/ships/supercarrier/poster/poster.png?raw=true)
 
 Assets for my Endless Sky plugins, mostly from KGS.
 
